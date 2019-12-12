@@ -12,9 +12,16 @@ div{
 }
 #div1{
 	border-color: red;
+	height: 100px;
+	width: 500px;
 }
 #div2{
 	border-color: green;
+	height: 90px;
+	width: 450px;
+	padding-left: 10px;
+	padding-top: 10px;
+	margin-left: 20px;
 }
 #div3{
 	border-color: yellow;
