@@ -3,6 +3,10 @@ h1{
 }
 h2{
 	background-color: green;
-}h3{
+}
+h3{
 	color: blue;
+}
+div{
+	border: 1px red solid;
 }
