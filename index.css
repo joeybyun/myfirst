@@ -10,3 +10,12 @@ h3{
 div{
 	border: 1px red solid;
 }
+#div1{
+	border-color: red;
+}
+#div2{
+	border-color: green;
+}
+#div3{
+	border-color: yellow;
+}
